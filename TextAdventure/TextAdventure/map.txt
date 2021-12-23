@@ -1,0 +1,5 @@
+|||LeaveForestRoom|
+||EmptyDarkPath|HazmatRoom|
+||EmptyDarkPath||
+||BurstersRoom||
+GhoulRoom|EmptyDarkPath|StartingRoom|EmptyDarkPath|ExplodersRoom

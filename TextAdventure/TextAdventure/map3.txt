@@ -1,0 +1,5 @@
+|||LeaveDesertRoom|
+||EmptyDesertWay|ZaratanRoom|
+||EmptyDesertWay||
+||MummyLordRoom||
+OinolothRoom|EmptyDesertWay|StartingPoint|EmptyDesertWay|GynosphinxRoom
